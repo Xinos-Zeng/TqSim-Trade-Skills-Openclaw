@@ -1,0 +1,20 @@
+{
+  "name": "tqsim-trade-skills-openclaw",
+  "version": "1.0.0",
+  "description": "基于天勤量化(TqSim)的期货回测、策略分析 OpenClaw 技能包",
+  "author": "AgentTrader",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinos-zeng/TqSim-Trade-Skills-Openclaw.git"
+  },
+  "keywords": [
+    "openclaw",
+    "skills",
+    "trading",
+    "backtest",
+    "futures",
+    "tqsim",
+    "quantitative"
+  ]
+}

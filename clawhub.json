@@ -1,0 +1,13 @@
+{
+  "name": "tqsim-trade-skills",
+  "tagline": "期货策略回测与分析技能包，基于天勤量化(TqSim)",
+  "category": "finance",
+  "version": "1.0.0",
+  "license": "MIT",
+  "support_url": "https://github.com/xinos-zeng/TqSim-Trade-Skills-Openclaw/issues",
+  "skills": [
+    "run-backtest",
+    "get-backtest-result",
+    "list-presets"
+  ]
+}
